@@ -14,16 +14,27 @@ An camera module that uses camera and a raspberry Pi. The idea was to use pedest
 ## Hardware Requirement
 
 List of Items for Approaches 1：
-ATMega 2560,
+
+ATMega 2560
+
 Ultrasonic Sensor - HC-SR04
+
 Dual 4:1 MUX/DEMUX 
+
 XBEE S2C DIGIMESH
+
 Voltage Regulator
+
 and battery
+
 List of Items for Approaches 2：
+
 Raspberry Pi 3 
+
 Raspberry Pi Camera V2
+
 5V 2.5A Micro USB power supply 
+
 MicroSD Card
 
 ## Overall Design
