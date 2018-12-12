@@ -9,7 +9,7 @@ An ultrasonic module that uses ultrasonic sensors and an AVR controller.  The ul
 
 ## Approach 2: 
 
-An camera module that uses camera and a raspberry Pi. The idea was to use pedestrian tracking software, and some door recognition software to track the doors and people. In the end this information was used to determine where the people were moving, how many people entered rooms, and which rooms they entered.
+An camera module that uses camera and a raspberry Pi. The idea is to use pedestrian tracking software, and some door recognition software to track the doors and people. In the end this information is used to determine where the people were moving, how many people entered rooms, and which rooms they entered.
 
 ## Hardware Requirement
 
